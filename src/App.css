@@ -1,0 +1,10 @@
+.bg-green {
+  background: linear-gradient(90deg, #174737 0.42%, #2a795f 100%);
+}
+.review-bg {
+  background-image: url("./bg.png");
+  background-size: cover; /* Adjust as needed */
+  background-position: center; /* Adjust as needed */
+  background-repeat: no-repeat; /* Adjust as needed */
+  position: relative;
+}
